@@ -43,8 +43,6 @@ print('-----------------------------------------------')
 
 # Todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 consulta_cinco = session.query(Pais).filter(or_(Pais.nombrePais.like('%uador%'),Pais.capital.like('%ito%'))).all()
-# print(consulta_cinco)
+print(consulta_cinco)
 
-for pais in consulta_cinco:
-    print(f"Nombre: {pais.nombrePais}, Capital: {pais.capital}")
 
