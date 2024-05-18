@@ -25,5 +25,4 @@ class Pais(Base):
     lenguaje = Column(String)
     independt = Column(String)
 
-print("BD creada")
 Base.metadata.create_all(engine)

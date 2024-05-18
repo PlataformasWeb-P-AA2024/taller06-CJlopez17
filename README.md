@@ -36,3 +36,6 @@ Considerandos:
 
 ### Importante
 * Se sugiere realizar un script por cada tarea: crear entidad; guardar información y consultar información
+
+### Taller realizado por 
+* Camilo López y Jorge Armijos 
