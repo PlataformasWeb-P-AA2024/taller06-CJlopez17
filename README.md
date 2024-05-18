@@ -34,6 +34,10 @@ Considerandos:
 
 * Presentar capturas de pantalla de la base de datos en sqlite
 
+* ![Captura desde 2024-05-18 18-56-03](https://github.com/PlataformasWeb-P-AA2024/taller06-CJlopez17/assets/92592810/95dcdad5-d5e5-424d-a0a3-876fbdcb5ee9)
+
+* ![Captura desde 2024-05-18 18-56-14](https://github.com/PlataformasWeb-P-AA2024/taller06-CJlopez17/assets/92592810/061f1dd4-774f-46b1-9eb7-c592fba36119)
+
 ### Importante
 * Se sugiere realizar un script por cada tarea: crear entidad; guardar información y consultar información
 
